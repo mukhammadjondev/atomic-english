@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "blockId": "block-004",
+  "order": 4,
+  "days": [10, 11, 12],
+  "theme": "Work, Money & Career",
+  "cefr": "B1",
+  "tags": ["work", "money"],
+
+  "vocabulary": [
+    {
+      "id": "v-0039",
+      "type": "vocab",
+      "word": "commute",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːt/",
+      "meaningUz": "ishga qatnamoq, yo'l bosmoq",
+      "meaningEn": "to travel regularly between home and work",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0053"],
+      "cards": [
+        {
+          "id": "v-0039-c1",
+          "mode": "cloze",
+          "prompt": "I ______ to the office by train every morning.",
+          "answer": "commute",
+          "hint": "verb, /kəˈmjuːt/"
+        },
+        {
+          "id": "v-0039-c2",
+          "mode": "production",
+          "prompt": "ishga qatnamoq, yo'l bosmoq (fe'l)",
+          "answer": "commute"
+        },
+        {
+          "id": "v-0039-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "commute"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A long commute can drain your energy.",
+          "uz": "Uzoq yo'l energiyangizni so'rib olishi mumkin.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0040",
+      "type": "vocab",
+      "word": "colleague",
+      "pos": "noun",
+      "ipa": "/ˈkɒliːɡ/",
+      "meaningUz": "hamkasb, ish yo'ldoshi",
+      "meaningEn": "a person you work with",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["work"],
+      "relatedIds": ["v-0044"],
+      "cards": [
+        {
+          "id": "v-0040-c1",
+          "mode": "cloze",
+          "prompt": "A helpful ______ makes a hard project easier.",
+          "answer": "colleague",
+          "hint": "noun, /ˈkɒliːɡ/"
+        },
+        {
+          "id": "v-0040-c2",
+          "mode": "production",
+          "prompt": "hamkasb, ish yo'ldoshi (ot)",
+          "answer": "colleague"
+        },
+        {
+          "id": "v-0040-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "colleague"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Ask a colleague when you're stuck.",
+          "uz": "Tiqilib qolganingizda hamkasbingizdan so'rang.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0041",
+      "type": "vocab",
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈməʊʃən/",
+      "meaningUz": "lavozim ko'tarilishi, ko'tarilish",
+      "meaningEn": "a move to a higher or more important job",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0042"],
+      "cards": [
+        {
+          "id": "v-0041-c1",
+          "mode": "cloze",
+          "prompt": "After two strong years, she earned a ______.",
+          "answer": "promotion",
+          "hint": "noun, /prəˈməʊʃən/"
+        },
+        {
+          "id": "v-0041-c2",
+          "mode": "production",
+          "prompt": "lavozim ko'tarilishi (ot)",
+          "answer": "promotion"
+        },
+        {
+          "id": "v-0041-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "promotion"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He asked his manager about a promotion.",
+          "uz": "U rahbaridan lavozim ko'tarilishi haqida so'radi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0042",
+      "type": "vocab",
+      "word": "negotiate",
+      "pos": "verb",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "meaningUz": "kelishmoq, muzokara olib bormoq",
+      "meaningEn": "to discuss something in order to reach an agreement",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["work"],
+      "relatedIds": ["v-0041"],
+      "cards": [
+        {
+          "id": "v-0042-c1",
+          "mode": "cloze",
+          "prompt": "Learn to ______ your salary before you accept the offer.",
+          "answer": "negotiate",
+          "hint": "verb, /nɪˈɡəʊʃieɪt/"
+        },
+        {
+          "id": "v-0042-c2",
+          "mode": "production",
+          "prompt": "kelishmoq, muzokara olib bormoq (fe'l)",
+          "answer": "negotiate"
+        },
+        {
+          "id": "v-0042-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "negotiate"
+        }
+      ],
+      "examples": [
+        {
+          "en": "They negotiated a better deal for both sides.",
+          "uz": "Ular ikkala tomon uchun yaxshiroq shartnoma kelishdilar.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0043",
+      "type": "vocab",
+      "word": "workload",
+      "pos": "noun",
+      "ipa": "/ˈwɜːkləʊd/",
+      "meaningUz": "ish hajmi, yuklama",
+      "meaningEn": "the amount of work a person has to do",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0052"],
+      "cards": [
+        {
+          "id": "v-0043-c1",
+          "mode": "cloze",
+          "prompt": "Talk to your manager if your ______ is too heavy.",
+          "answer": "workload",
+          "hint": "noun, /ˈwɜːkləʊd/"
+        },
+        {
+          "id": "v-0043-c2",
+          "mode": "production",
+          "prompt": "ish hajmi, yuklama (ot)",
+          "answer": "workload"
+        },
+        {
+          "id": "v-0043-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "workload"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A balanced workload keeps quality high.",
+          "uz": "Muvozanatli ish hajmi sifatni yuqori saqlaydi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0044",
+      "type": "vocab",
+      "word": "take on",
+      "pos": "phrasal_verb",
+      "ipa": "/teɪk ɒn/",
+      "meaningUz": "zimmasiga olmoq, qabul qilmoq (ish)",
+      "meaningEn": "to accept a job or responsibility",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0043"],
+      "cards": [
+        {
+          "id": "v-0044-c1",
+          "mode": "cloze",
+          "prompt": "Don't ______ ______ more than you can finish well.",
+          "answer": "take on",
+          "hint": "phrasal verb, /teɪk ɒn/"
+        },
+        {
+          "id": "v-0044-c2",
+          "mode": "production",
+          "prompt": "zimmasiga olmoq, qabul qilmoq (frazal fe'l)",
+          "answer": "take on"
+        },
+        {
+          "id": "v-0044-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "take on"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She took on the project and led it well.",
+          "uz": "U loyihani zimmasiga oldi va yaxshi boshqardi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0045",
+      "type": "vocab",
+      "word": "deal with",
+      "pos": "phrasal_verb",
+      "ipa": "/diːl wɪð/",
+      "meaningUz": "hal qilmoq, kurashmoq, shug'ullanmoq",
+      "meaningEn": "to take action to solve a problem or handle a situation",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0044"],
+      "cards": [
+        {
+          "id": "v-0045-c1",
+          "mode": "cloze",
+          "prompt": "A good manager helps the team ______ ______ problems calmly.",
+          "answer": "deal with",
+          "hint": "phrasal verb, /diːl wɪð/"
+        },
+        {
+          "id": "v-0045-c2",
+          "mode": "production",
+          "prompt": "hal qilmoq, shug'ullanmoq (frazal fe'l)",
+          "answer": "deal with"
+        },
+        {
+          "id": "v-0045-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "deal with"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Deal with the hardest task first.",
+          "uz": "Eng qiyin vazifani birinchi hal qiling.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0046",
+      "type": "vocab",
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaningUz": "ishonchli, tayanish mumkin bo'lgan",
+      "meaningEn": "able to be trusted to do what is expected",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0040"],
+      "cards": [
+        {
+          "id": "v-0046-c1",
+          "mode": "cloze",
+          "prompt": "Being ______ matters more than being brilliant once.",
+          "answer": "reliable",
+          "hint": "adjective, /rɪˈlaɪəbl/"
+        },
+        {
+          "id": "v-0046-c2",
+          "mode": "production",
+          "prompt": "ishonchli, tayanish mumkin bo'lgan (sifat)",
+          "answer": "reliable"
+        },
+        {
+          "id": "v-0046-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "reliable"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Teams trust a reliable colleague.",
+          "uz": "Jamoa ishonchli hamkasbga tayanadi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0047",
+      "type": "vocab",
+      "word": "income",
+      "pos": "noun",
+      "ipa": "/ˈɪnkʌm/",
+      "meaningUz": "daromad",
+      "meaningEn": "money you regularly receive from work or investments",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["money"],
+      "relatedIds": ["v-0048"],
+      "cards": [
+        {
+          "id": "v-0047-c1",
+          "mode": "cloze",
+          "prompt": "Spend less than your ______ and save the rest.",
+          "answer": "income",
+          "hint": "noun, /ˈɪnkʌm/"
+        },
+        {
+          "id": "v-0047-c2",
+          "mode": "production",
+          "prompt": "daromad (ot)",
+          "answer": "income"
+        },
+        {
+          "id": "v-0047-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "income"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A second income gives you more freedom.",
+          "uz": "Ikkinchi daromad sizga ko'proq erkinlik beradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0048",
+      "type": "vocab",
+      "word": "expense",
+      "pos": "noun",
+      "ipa": "/ɪkˈspens/",
+      "meaningUz": "xarajat, harajat",
+      "meaningEn": "money that you spend on something",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["money"],
+      "relatedIds": ["v-0047"],
+      "cards": [
+        {
+          "id": "v-0048-c1",
+          "mode": "cloze",
+          "prompt": "Track every ______ for a month to see where money goes.",
+          "answer": "expense",
+          "hint": "noun, /ɪkˈspens/"
+        },
+        {
+          "id": "v-0048-c2",
+          "mode": "production",
+          "prompt": "xarajat, harajat (ot)",
+          "answer": "expense"
+        },
+        {
+          "id": "v-0048-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "expense"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Cut one small expense and save it instead.",
+          "uz": "Bitta kichik xarajatni qisqartiring va o'rniga jamg'aring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0049",
+      "type": "vocab",
+      "word": "budget",
+      "pos": "verb",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaningUz": "byudjet tuzmoq, pulni rejalashtirmoq",
+      "meaningEn": "to plan how to spend your money",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["money"],
+      "relatedIds": ["v-0048"],
+      "cards": [
+        {
+          "id": "v-0049-c1",
+          "mode": "cloze",
+          "prompt": "Learn to ______ so your money lasts the whole month.",
+          "answer": "budget",
+          "hint": "verb, /ˈbʌdʒɪt/"
+        },
+        {
+          "id": "v-0049-c2",
+          "mode": "production",
+          "prompt": "byudjet tuzmoq, pulni rejalashtirmoq (fe'l)",
+          "answer": "budget"
+        },
+        {
+          "id": "v-0049-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "budget"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Budget for fun, not just bills.",
+          "uz": "Faqat to'lovlar uchun emas, ko'ngilxushlik uchun ham reja tuzing.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0050",
+      "type": "vocab",
+      "word": "save up",
+      "pos": "phrasal_verb",
+      "ipa": "/seɪv ʌp/",
+      "meaningUz": "pul yig'moq, jamg'armoq (maqsad uchun)",
+      "meaningEn": "to keep money over time for a particular purpose",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["money"],
+      "relatedIds": ["v-0051"],
+      "cards": [
+        {
+          "id": "v-0050-c1",
+          "mode": "cloze",
+          "prompt": "We're trying to ______ ______ for a holiday.",
+          "answer": "save up",
+          "hint": "phrasal verb, /seɪv ʌp/"
+        },
+        {
+          "id": "v-0050-c2",
+          "mode": "production",
+          "prompt": "pul yig'moq, jamg'armoq (frazal fe'l)",
+          "answer": "save up"
+        },
+        {
+          "id": "v-0050-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "save up"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Save up a small emergency fund first.",
+          "uz": "Avval kichik favqulodda jamg'arma yig'ing.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0051",
+      "type": "vocab",
+      "word": "afford",
+      "pos": "verb",
+      "ipa": "/əˈfɔːd/",
+      "meaningUz": "qurbi yetmoq, sotib olishga imkoni bo'lmoq",
+      "meaningEn": "to have enough money or time for something",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["money"],
+      "relatedIds": ["v-0050"],
+      "cards": [
+        {
+          "id": "v-0051-c1",
+          "mode": "cloze",
+          "prompt": "Ask not just \"do I want it?\" but \"can I ______ it?\"",
+          "answer": "afford",
+          "hint": "verb, /əˈfɔːd/"
+        },
+        {
+          "id": "v-0051-c2",
+          "mode": "production",
+          "prompt": "qurbi yetmoq, sotib olishga imkoni bo'lmoq (fe'l)",
+          "answer": "afford"
+        },
+        {
+          "id": "v-0051-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "afford"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Wait until you can truly afford it.",
+          "uz": "Haqiqatan qurbingiz yetguncha kuting.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0052",
+      "type": "vocab",
+      "word": "demanding",
+      "pos": "adjective",
+      "ipa": "/dɪˈmɑːndɪŋ/",
+      "meaningUz": "talabchan, og'ir, ko'p kuch talab qiladigan",
+      "meaningEn": "needing a lot of time, effort, or attention",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0043"],
+      "cards": [
+        {
+          "id": "v-0052-c1",
+          "mode": "cloze",
+          "prompt": "It's a ______ job, so good rest is essential.",
+          "answer": "demanding",
+          "hint": "adjective, /dɪˈmɑːndɪŋ/"
+        },
+        {
+          "id": "v-0052-c2",
+          "mode": "production",
+          "prompt": "talabchan, og'ir, ko'p kuch talab qiladigan (sifat)",
+          "answer": "demanding"
+        },
+        {
+          "id": "v-0052-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "demanding"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A demanding week needs a calm weekend.",
+          "uz": "Og'ir hafta tinch dam olish kunlarini talab qiladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0053",
+      "type": "vocab",
+      "word": "work-life balance",
+      "pos": "phrase",
+      "ipa": "/wɜːk laɪf ˈbæləns/",
+      "meaningUz": "ish va hayot muvozanati",
+      "meaningEn": "a healthy split between time spent working and time for personal life",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["work"],
+      "relatedIds": ["v-0052"],
+      "cards": [
+        {
+          "id": "v-0053-c1",
+          "mode": "cloze",
+          "prompt": "Setting clear hours protects your ______ ______ ______.",
+          "answer": "work-life balance",
+          "hint": "phrase, /wɜːk laɪf ˈbæləns/"
+        },
+        {
+          "id": "v-0053-c2",
+          "mode": "production",
+          "prompt": "ish va hayot muvozanati (ibora)",
+          "answer": "work-life balance"
+        },
+        {
+          "id": "v-0053-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "work-life balance"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good work-life balance protects your long-term energy.",
+          "uz": "Yaxshi ish-hayot muvozanati uzoq muddatli energiyangizni asraydi.",
+          "audioUrl": null
+        }
+      ]
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-0008",
+      "type": "grammar",
+      "topic": "Present Perfect vs Past Simple",
+      "cefr": "B1",
+      "tags": ["tenses"],
+      "explanationMd": "## Present Perfect vs Past Simple\n\n### Past simple — finished time\nUse for actions at a **specific, finished** past time.\n> I **saw** him **yesterday**. / She **started** the job **in 2020**.\nSignal words: *yesterday, last week, in 2020, ago, when*.\n\n### Present perfect — connected to now\nUse for past actions with a **link to the present**, or an **unfinished** time period.\n> I **have finished** the report. (it's done now)\n> She **has worked** here **for** five years. (still works here)\nSignal words: *already, just, yet, ever, never, since, for, so far*.\n\n### Common mistakes\n- ❌ *I have seen him yesterday.*\n- ✅ *I saw him yesterday.* (finished time → past simple)",
+      "exercises": [
+        {
+          "id": "g-0008-e1",
+          "type": "fill_blank",
+          "prompt": "I ______ (finish) my work, so I can relax now.",
+          "answer": "have finished",
+          "accepted": ["have finished", "'ve finished"],
+          "explanationMd": "Result matters now → **present perfect**."
+        },
+        {
+          "id": "g-0008-e2",
+          "type": "error_correction",
+          "prompt": "She has started her new job last Monday.",
+          "answer": "She started her new job last Monday.",
+          "explanationMd": "*last Monday* is a finished time → **past simple**."
+        },
+        {
+          "id": "g-0008-e3",
+          "type": "multiple_choice",
+          "prompt": "We ______ in this city since 2019.",
+          "options": ["lived", "have lived", "live", "are living"],
+          "answer": "have lived",
+          "explanationMd": "*since 2019* (unfinished period) → **present perfect**."
+        },
+        {
+          "id": "g-0008-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (I / never / have / to / been / Japan)",
+          "answer": "I have never been to Japan."
+        }
+      ]
+    },
+    {
+      "id": "g-0009",
+      "type": "grammar",
+      "topic": "Relative Clauses",
+      "cefr": "B2",
+      "tags": ["relative-clauses"],
+      "explanationMd": "## Relative Clauses\n\nThey add information about a noun using *who, which, that, whose, where*.\n\n### Defining (essential) — no commas\nIdentifies which one; you can't remove it.\n> The colleague **who helped me** got a promotion.\n> The report **that I wrote** is on your desk. (*that* / *which* for things)\n\n### Non-defining (extra info) — commas, no *that*\nAdds extra detail; can be removed.\n> My manager, **who is very kind**, approved it.\n\n### which / who / whose / where\n- *who* → people, *which* → things, *whose* → possession, *where* → places.\n\n### Common mistakes\n- ❌ *My boss, that is from Italy, is great.*\n- ✅ *My boss, who is from Italy, is great.* (non-defining → not *that*)",
+      "exercises": [
+        {
+          "id": "g-0009-e1",
+          "type": "fill_blank",
+          "prompt": "That's the manager ______ hired me. (who / which)",
+          "answer": "who",
+          "accepted": ["who"],
+          "explanationMd": "Use **who** for people."
+        },
+        {
+          "id": "g-0009-e2",
+          "type": "error_correction",
+          "prompt": "This is the office which I work.",
+          "answer": "This is the office where I work.",
+          "explanationMd": "Use **where** for places (not *which* without a preposition)."
+        },
+        {
+          "id": "g-0009-e3",
+          "type": "multiple_choice",
+          "prompt": "She's the person ______ car was stolen.",
+          "options": ["who", "which", "whose", "where"],
+          "answer": "whose",
+          "explanationMd": "**whose** shows possession."
+        },
+        {
+          "id": "g-0009-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (the book / I / which / bought / is / useful / very)",
+          "answer": "The book which I bought is very useful."
+        }
+      ]
+    },
+    {
+      "id": "g-0010",
+      "type": "grammar",
+      "topic": "Used to / be used to / get used to",
+      "cefr": "B2",
+      "tags": ["used-to"],
+      "explanationMd": "## Used to / be used to / get used to\n\nThree different structures — easy to mix up.\n\n### used to + base verb — past habit (not now)\n> I **used to commute** by car. (I don't anymore)\n\n### be used to + noun / -ing — already familiar\n> I **am used to working** late. (it's normal for me now)\n\n### get used to + noun / -ing — becoming familiar\n> I'm slowly **getting used to the new schedule**.\n\n### Common mistakes\n- ❌ *I am used to work late.*\n- ✅ *I am used to working late.* (be/get used to → **-ing** or noun)",
+      "exercises": [
+        {
+          "id": "g-0010-e1",
+          "type": "fill_blank",
+          "prompt": "I ______ (use to) live in a small town as a child.",
+          "answer": "used to",
+          "accepted": ["used to"],
+          "explanationMd": "Past habit → **used to + base verb**."
+        },
+        {
+          "id": "g-0010-e2",
+          "type": "error_correction",
+          "prompt": "She is used to work under pressure.",
+          "answer": "She is used to working under pressure.",
+          "explanationMd": "*be used to* takes **-ing** (working), not the base verb."
+        },
+        {
+          "id": "g-0010-e3",
+          "type": "multiple_choice",
+          "prompt": "It was hard at first, but I'm ______ the early starts now.",
+          "options": ["used to", "getting used to", "use to", "used"],
+          "answer": "getting used to",
+          "explanationMd": "Becoming familiar → **getting used to + noun**."
+        },
+        {
+          "id": "g-0010-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (he / used / to / smoke / but / quit / he)",
+          "answer": "He used to smoke, but he quit."
+        }
+      ]
+    }
+  ],
+
+  "speaking": [
+    {
+      "id": "s-0009",
+      "type": "speaking",
+      "promptEn": "Describe your ideal job and the work-life balance you would want.",
+      "promptUz": "Ideal ishingizni va xohlagan ish-hayot muvozanatingizni tasvirlang.",
+      "targetWords": ["v-0053", "v-0052"],
+      "rubric": "Encourage present/conditional structures and work vocabulary."
+    },
+    {
+      "id": "s-0010",
+      "type": "speaking",
+      "promptEn": "Talk about how your money habits have changed. Use present perfect and past simple.",
+      "promptUz": "Pul bilan bog'liq odatlaringiz qanday o'zgargani haqida gapiring. Present perfect va past simple ishlating.",
+      "targetWords": ["v-0049", "v-0050"],
+      "rubric": "Contrast present perfect (changes up to now) with past simple (finished moments)."
+    },
+    {
+      "id": "s-0011",
+      "type": "speaking",
+      "promptEn": "What did you use to do at work or school that you don't do now? What are you getting used to?",
+      "promptUz": "Ilgari ishda yoki maktabda nima qilardingiz, hozir esa qilmaysiz? Nimaga o'rganib boryapsiz?",
+      "targetWords": ["v-0039", "v-0044"],
+      "rubric": "Encourage used to (past habit) and getting used to (becoming familiar)."
+    }
+  ]
+}

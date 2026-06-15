@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "1.0",
+  "blockId": "block-001",
+  "order": 1,
+  "days": [1, 2, 3],
+  "theme": "Daily Habits & Routines",
+  "cefr": "B1",
+  "tags": ["habits", "daily-life"],
+
+  "vocabulary": [
+    {
+      "id": "v-0001",
+      "type": "vocab",
+      "word": "establish",
+      "pos": "verb",
+      "ipa": "/ɪˈstæblɪʃ/",
+      "meaningUz": "shakllantirmoq, o'rnatmoq",
+      "meaningEn": "to create or set up something that lasts",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["habits"],
+      "relatedIds": ["v-0002"],
+      "cards": [
+        {
+          "id": "v-0001-c1",
+          "mode": "cloze",
+          "prompt": "I'm trying to ______ a new habit of reading every day.",
+          "answer": "establish",
+          "hint": "verb, /ɪˈstæblɪʃ/"
+        },
+        {
+          "id": "v-0001-c2",
+          "mode": "production",
+          "prompt": "shakllantirmoq, o'rnatmoq (fe'l)",
+          "answer": "establish"
+        },
+        {
+          "id": "v-0001-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "establish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It takes time to establish a routine.",
+          "uz": "Tartib o'rnatish vaqt talab qiladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0002",
+      "type": "vocab",
+      "word": "consistency",
+      "pos": "noun",
+      "ipa": "/kənˈsɪstənsi/",
+      "meaningUz": "izchillik, barqarorlik",
+      "meaningEn": "doing the same thing in the same way over time",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["habits"],
+      "relatedIds": ["v-0001"],
+      "cards": [
+        {
+          "id": "v-0002-c1",
+          "mode": "cloze",
+          "prompt": "Small daily actions build ______ over months.",
+          "answer": "consistency",
+          "hint": "noun, /kənˈsɪstənsi/"
+        },
+        {
+          "id": "v-0002-c2",
+          "mode": "production",
+          "prompt": "izchillik, barqarorlik (ot)",
+          "answer": "consistency"
+        },
+        {
+          "id": "v-0002-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "consistency"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Consistency matters more than intensity.",
+          "uz": "Izchillik shiddatdan ko'ra muhimroq.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0003",
+      "type": "vocab",
+      "word": "gradually",
+      "pos": "adverb",
+      "ipa": "/ˈɡrædʒuəli/",
+      "meaningUz": "asta-sekin, bosqichma-bosqich",
+      "meaningEn": "slowly, over a period of time",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0003-c1",
+          "mode": "cloze",
+          "prompt": "Start small and ______ increase the difficulty.",
+          "answer": "gradually",
+          "hint": "adverb, /ˈɡrædʒuəli/"
+        },
+        {
+          "id": "v-0003-c2",
+          "mode": "production",
+          "prompt": "asta-sekin, bosqichma-bosqich (ravish)",
+          "answer": "gradually"
+        },
+        {
+          "id": "v-0003-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "gradually"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Your skills will improve gradually with practice.",
+          "uz": "Mahoratingiz mashq bilan asta-sekin oshib boradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0004",
+      "type": "vocab",
+      "word": "stick to",
+      "pos": "phrasal_verb",
+      "ipa": "/stɪk tuː/",
+      "meaningUz": "(rejaga) sodiq qolmoq, amal qilmoq",
+      "meaningEn": "to keep doing something and not give up or change it",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0004-c1",
+          "mode": "cloze",
+          "prompt": "It's hard to ______ a plan when you're busy.",
+          "answer": "stick to",
+          "hint": "phrasal verb, /stɪk tuː/"
+        },
+        {
+          "id": "v-0004-c2",
+          "mode": "production",
+          "prompt": "(rejaga) sodiq qolmoq, amal qilmoq (frazal fe'l)",
+          "answer": "stick to"
+        },
+        {
+          "id": "v-0004-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "stick to"
+        }
+      ],
+      "examples": [
+        {
+          "en": "If you stick to it, the habit becomes automatic.",
+          "uz": "Agar unga sodiq qolsangiz, odat avtomatik bo'ladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0005",
+      "type": "vocab",
+      "word": "effortless",
+      "pos": "adjective",
+      "ipa": "/ˈefətləs/",
+      "meaningUz": "mehnatsiz, oson, qiyinchiliksiz",
+      "meaningEn": "needing little or no effort",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0005-c1",
+          "mode": "cloze",
+          "prompt": "After months of practice, the routine felt ______.",
+          "answer": "effortless",
+          "hint": "adjective, /ˈefətləs/"
+        },
+        {
+          "id": "v-0005-c2",
+          "mode": "production",
+          "prompt": "mehnatsiz, oson (sifat)",
+          "answer": "effortless"
+        },
+        {
+          "id": "v-0005-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "effortless"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good habits make hard things feel effortless.",
+          "uz": "Yaxshi odatlar qiyin narsalarni oson his qildiradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0006",
+      "type": "vocab",
+      "word": "set aside",
+      "pos": "phrasal_verb",
+      "ipa": "/set əˈsaɪd/",
+      "meaningUz": "ajratib qo'ymoq (vaqt yoki narsa)",
+      "meaningEn": "to keep something (especially time) for a particular purpose",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0006-c1",
+          "mode": "cloze",
+          "prompt": "I ______ ten minutes every evening to study.",
+          "answer": "set aside",
+          "hint": "phrasal verb, /set əˈsaɪd/"
+        },
+        {
+          "id": "v-0006-c2",
+          "mode": "production",
+          "prompt": "ajratib qo'ymoq (vaqt) (frazal fe'l)",
+          "answer": "set aside"
+        },
+        {
+          "id": "v-0006-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "set aside"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Set aside a little time each day and protect it.",
+          "uz": "Har kuni bir oz vaqt ajrating va uni asrang.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0007",
+      "type": "vocab",
+      "word": "setback",
+      "pos": "noun",
+      "ipa": "/ˈsetbæk/",
+      "meaningUz": "to'siq, orqaga qadam, muvaffaqiyatsizlik",
+      "meaningEn": "a problem that delays or stops progress",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0007-c1",
+          "mode": "cloze",
+          "prompt": "One missed day is just a small ______, not a failure.",
+          "answer": "setback",
+          "hint": "noun, /ˈsetbæk/"
+        },
+        {
+          "id": "v-0007-c2",
+          "mode": "production",
+          "prompt": "to'siq, orqaga qadam (ot)",
+          "answer": "setback"
+        },
+        {
+          "id": "v-0007-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "setback"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Treat every setback as feedback, not defeat.",
+          "uz": "Har bir to'siqni mag'lubiyat emas, balki saboq deb biling.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0008",
+      "type": "vocab",
+      "word": "keep track of",
+      "pos": "phrase",
+      "ipa": "/kiːp træk əv/",
+      "meaningUz": "kuzatib bormoq, hisobini yuritmoq",
+      "meaningEn": "to record or stay aware of how something is progressing",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["habits"],
+      "cards": [
+        {
+          "id": "v-0008-c1",
+          "mode": "cloze",
+          "prompt": "A simple calendar helps you ______ your streak.",
+          "answer": "keep track of",
+          "hint": "phrase, /kiːp træk əv/"
+        },
+        {
+          "id": "v-0008-c2",
+          "mode": "production",
+          "prompt": "kuzatib bormoq, hisobini yuritmoq (ibora)",
+          "answer": "keep track of"
+        },
+        {
+          "id": "v-0008-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "keep track of"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Keep track of your progress so you can see it grow.",
+          "uz": "Taraqqiyotingizni kuzatib boring, shunda uni ko'rasiz.",
+          "audioUrl": null
+        }
+      ]
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-0001",
+      "type": "grammar",
+      "topic": "Third Conditional",
+      "cefr": "B2",
+      "tags": ["conditionals", "weak-spot"],
+      "explanationMd": "## Third Conditional\n\nUsed for **unreal situations in the past** — things that did *not* happen.\n\n**Structure:** `If + past perfect, would have + V3`\n\n> If I **had known**, I **would have told** you.\n\n### Common mistakes\n- ❌ *If I would have known...* — never use `would` in the `if`-clause.\n- ✅ *If I had known...*\n\n### Inversion (formal)\nYou can drop `if` and invert:\n> **Had I known**, I would have told you.",
+      "exercises": [
+        {
+          "id": "g-0001-e1",
+          "type": "fill_blank",
+          "prompt": "If I ______ (know), I would have told you.",
+          "answer": "had known",
+          "accepted": ["had known"],
+          "explanationMd": "Third conditional uses **past perfect** in the if-clause."
+        },
+        {
+          "id": "g-0001-e2",
+          "type": "error_correction",
+          "prompt": "If I would have known, I would have helped.",
+          "answer": "If I had known, I would have helped.",
+          "explanationMd": "Never use `would` in the if-clause."
+        },
+        {
+          "id": "g-0001-e3",
+          "type": "multiple_choice",
+          "prompt": "______ harder, he would have passed.",
+          "options": ["If he studied", "Had he studied", "Did he study", "Should he study"],
+          "answer": "Had he studied",
+          "explanationMd": "Inversion of *If he had studied*."
+        },
+        {
+          "id": "g-0001-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (you / if / had / called / I / would have / answered)",
+          "answer": "If you had called, I would have answered."
+        }
+      ]
+    }
+  ],
+
+  "speaking": [
+    {
+      "id": "s-0001",
+      "type": "speaking",
+      "promptEn": "Describe a habit you want to build and why.",
+      "promptUz": "Shakllantirmoqchi bo'lgan odatingizni va sababini tasvirlang.",
+      "targetWords": ["v-0001", "v-0002"],
+      "rubric": "Encourage use of present tense + habit vocabulary."
+    },
+    {
+      "id": "s-0002",
+      "type": "speaking",
+      "promptEn": "Tell me about a time you had a setback. What would you do differently if it happened again?",
+      "promptUz": "To'siqqa duch kelgan vaqtingiz haqida gapiring. Yana takrorlansa, nimani boshqacha qilardingiz?",
+      "targetWords": ["v-0007", "v-0004"],
+      "rubric": "Encourage past tense and third-conditional structures."
+    }
+  ]
+}

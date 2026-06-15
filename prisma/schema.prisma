@@ -1,0 +1,58 @@
+// Atomic English — DB schema (phase 08).
+// Mirrors the local IndexedDB stores so the repository interface is identical
+// whether the app runs on local storage or Postgres (Neon).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/// FSRS memory state per content card. `fsrs` holds the raw ts-fsrs Card JSON.
+model UserCardState {
+  cardId     String   @id
+  vocabId    String
+  kind       String   @default("vocab")
+  introduced Boolean  @default(true)
+  fsrs       Json
+  updatedAt  DateTime @updatedAt
+
+  @@index([vocabId])
+}
+
+/// Immutable log of graded reviews (for stats + undo).
+model ReviewLog {
+  id         Int      @id @default(autoincrement())
+  cardId     String
+  log        Json
+  reviewedAt DateTime
+
+  @@index([cardId])
+}
+
+/// One day on the don't-break-the-chain calendar (date = YYYY-MM-DD).
+model StreakDay {
+  date           String  @id
+  cardsCompleted Int     @default(0)
+  goalMet        Boolean @default(false)
+  frozen         Boolean @default(false)
+}
+
+/// Single-row settings table (id is always "app").
+model Settings {
+  id             String  @id @default("app")
+  newCardsPerDay Int     @default(5)
+  grammarPerDay  Int     @default(6)
+  reviewCap      Int     @default(20)
+  retention      Float   @default(0.9)
+  dailyGoalCards Int      @default(10)
+  weakSpotTags   String[] @default(["weak-spot"])
+  ttsVoice       String?
+  ttsAutoplay    Boolean @default(false)
+  theme          String  @default("system")
+  habitCue       String  @default("")
+  reminderTime   String  @default("")
+}

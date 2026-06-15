@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "blockId": "block-003",
+  "order": 3,
+  "days": [7, 8, 9],
+  "theme": "Health, Energy & Wellbeing",
+  "cefr": "B1",
+  "tags": ["health", "wellbeing"],
+
+  "vocabulary": [
+    {
+      "id": "v-0024",
+      "type": "vocab",
+      "word": "nourish",
+      "pos": "verb",
+      "ipa": "/ˈnʌrɪʃ/",
+      "meaningUz": "oziqlantirmoq, quvvatlantirmoq",
+      "meaningEn": "to give a person, body, or mind the food and care needed to stay healthy",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["health"],
+      "relatedIds": ["v-0033"],
+      "cards": [
+        {
+          "id": "v-0024-c1",
+          "mode": "cloze",
+          "prompt": "Good food and rest ______ both the body and the mind.",
+          "answer": "nourish",
+          "hint": "verb, /ˈnʌrɪʃ/"
+        },
+        {
+          "id": "v-0024-c2",
+          "mode": "production",
+          "prompt": "oziqlantirmoq, quvvatlantirmoq (fe'l)",
+          "answer": "nourish"
+        },
+        {
+          "id": "v-0024-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "nourish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Choose habits that nourish you, not drain you.",
+          "uz": "Sizni charchatmaydigan, balki quvvatlantiradigan odatlarni tanlang.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0025",
+      "type": "vocab",
+      "word": "sedentary",
+      "pos": "adjective",
+      "ipa": "/ˈsedəntri/",
+      "meaningUz": "o'tirib ishlaydigan, kam harakat",
+      "meaningEn": "involving a lot of sitting and little physical activity",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["health"],
+      "relatedIds": ["v-0031"],
+      "cards": [
+        {
+          "id": "v-0025-c1",
+          "mode": "cloze",
+          "prompt": "A ______ lifestyle can harm your health over time.",
+          "answer": "sedentary",
+          "hint": "adjective, /ˈsedəntri/"
+        },
+        {
+          "id": "v-0025-c2",
+          "mode": "production",
+          "prompt": "o'tirib ishlaydigan, kam harakat (sifat)",
+          "answer": "sedentary"
+        },
+        {
+          "id": "v-0025-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "sedentary"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Office workers often have a sedentary routine.",
+          "uz": "Ofis xodimlari ko'pincha kam harakat tartibga ega.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0026",
+      "type": "vocab",
+      "word": "cut back",
+      "pos": "phrasal_verb",
+      "ipa": "/kʌt bæk/",
+      "meaningUz": "kamaytirmoq, qisqartirmoq",
+      "meaningEn": "to reduce the amount of something you do or use",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["health"],
+      "relatedIds": ["v-0027"],
+      "cards": [
+        {
+          "id": "v-0026-c1",
+          "mode": "cloze",
+          "prompt": "I'm trying to ______ ______ on sugar this month.",
+          "answer": "cut back",
+          "hint": "phrasal verb, /kʌt bæk/ (+ on)"
+        },
+        {
+          "id": "v-0026-c2",
+          "mode": "production",
+          "prompt": "kamaytirmoq, qisqartirmoq (frazal fe'l)",
+          "answer": "cut back"
+        },
+        {
+          "id": "v-0026-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "cut back"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Cut back slowly rather than quitting all at once.",
+          "uz": "Birdan tashlash o'rniga asta-sekin kamaytiring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0027",
+      "type": "vocab",
+      "word": "craving",
+      "pos": "noun",
+      "ipa": "/ˈkreɪvɪŋ/",
+      "meaningUz": "kuchli istak, ishtiyoq (biror narsaga)",
+      "meaningEn": "a strong desire for something, especially food",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["health"],
+      "relatedIds": ["v-0026"],
+      "cards": [
+        {
+          "id": "v-0027-c1",
+          "mode": "cloze",
+          "prompt": "Drink water first; a ______ often passes in a few minutes.",
+          "answer": "craving",
+          "hint": "noun, /ˈkreɪvɪŋ/"
+        },
+        {
+          "id": "v-0027-c2",
+          "mode": "production",
+          "prompt": "kuchli istak, ishtiyoq (ot)",
+          "answer": "craving"
+        },
+        {
+          "id": "v-0027-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "craving"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A sugar craving is strongest when you are tired.",
+          "uz": "Shakar istagi siz charchaganda eng kuchli bo'ladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0028",
+      "type": "vocab",
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "meaningUz": "chidamlilik, tez tiklanish qobiliyati",
+      "meaningEn": "the ability to recover quickly from difficulties",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0037"],
+      "cards": [
+        {
+          "id": "v-0028-c1",
+          "mode": "cloze",
+          "prompt": "Bouncing back from a bad day builds ______.",
+          "answer": "resilience",
+          "hint": "noun, /rɪˈzɪliəns/"
+        },
+        {
+          "id": "v-0028-c2",
+          "mode": "production",
+          "prompt": "chidamlilik, tez tiklanish qobiliyati (ot)",
+          "answer": "resilience"
+        },
+        {
+          "id": "v-0028-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "resilience"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Resilience is built one small comeback at a time.",
+          "uz": "Chidamlilik har bir kichik qaytishdan shakllanadi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0029",
+      "type": "vocab",
+      "word": "thrive",
+      "pos": "verb",
+      "ipa": "/θraɪv/",
+      "meaningUz": "gullab-yashnamoq, rivojlanmoq",
+      "meaningEn": "to grow, develop, or be very successful",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0036"],
+      "cards": [
+        {
+          "id": "v-0029-c1",
+          "mode": "cloze",
+          "prompt": "With good sleep and movement, the body begins to ______.",
+          "answer": "thrive",
+          "hint": "verb, /θraɪv/"
+        },
+        {
+          "id": "v-0029-c2",
+          "mode": "production",
+          "prompt": "gullab-yashnamoq, rivojlanmoq (fe'l)",
+          "answer": "thrive"
+        },
+        {
+          "id": "v-0029-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "thrive"
+        }
+      ],
+      "examples": [
+        {
+          "en": "People thrive on routine more than they expect.",
+          "uz": "Odamlar kutilganidan ko'ra tartib bilan yaxshiroq rivojlanadi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0030",
+      "type": "vocab",
+      "word": "moderation",
+      "pos": "noun",
+      "ipa": "/ˌmɒdəˈreɪʃən/",
+      "meaningUz": "me'yor, mo''tadillik",
+      "meaningEn": "doing or having something in sensible, limited amounts",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["health"],
+      "relatedIds": ["v-0026"],
+      "cards": [
+        {
+          "id": "v-0030-c1",
+          "mode": "cloze",
+          "prompt": "Sweets are fine in ______, not every day.",
+          "answer": "moderation",
+          "hint": "noun, /ˌmɒdəˈreɪʃən/"
+        },
+        {
+          "id": "v-0030-c2",
+          "mode": "production",
+          "prompt": "me'yor, mo''tadillik (ot)",
+          "answer": "moderation"
+        },
+        {
+          "id": "v-0030-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "moderation"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Everything in moderation, including moderation.",
+          "uz": "Hamma narsa me'yorida, hatto me'yorning o'zi ham.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0031",
+      "type": "vocab",
+      "word": "sluggish",
+      "pos": "adjective",
+      "ipa": "/ˈslʌɡɪʃ/",
+      "meaningUz": "sust, lanj, harakatsiz",
+      "meaningEn": "slow, lacking energy or alertness",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0025"],
+      "cards": [
+        {
+          "id": "v-0031-c1",
+          "mode": "cloze",
+          "prompt": "Skipping breakfast leaves many people feeling ______.",
+          "answer": "sluggish",
+          "hint": "adjective, /ˈslʌɡɪʃ/"
+        },
+        {
+          "id": "v-0031-c2",
+          "mode": "production",
+          "prompt": "sust, lanj, harakatsiz (sifat)",
+          "answer": "sluggish"
+        },
+        {
+          "id": "v-0031-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "sluggish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Too little sleep makes the mind sluggish.",
+          "uz": "Kam uyqu aqlni sust qiladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0032",
+      "type": "vocab",
+      "word": "wind down",
+      "pos": "phrasal_verb",
+      "ipa": "/waɪnd daʊn/",
+      "meaningUz": "tinchlanmoq, dam olishga tayyorlanmoq",
+      "meaningEn": "to relax and become calm, especially at the end of the day",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0037"],
+      "cards": [
+        {
+          "id": "v-0032-c1",
+          "mode": "cloze",
+          "prompt": "Reading helps me ______ ______ before sleep.",
+          "answer": "wind down",
+          "hint": "phrasal verb, /waɪnd daʊn/"
+        },
+        {
+          "id": "v-0032-c2",
+          "mode": "production",
+          "prompt": "tinchlanmoq, dam olishga tayyorlanmoq (frazal fe'l)",
+          "answer": "wind down"
+        },
+        {
+          "id": "v-0032-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "wind down"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Dim the lights to help your body wind down.",
+          "uz": "Tanangiz tinchlanishi uchun chiroqni pasaytiring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0033",
+      "type": "vocab",
+      "word": "nutritious",
+      "pos": "adjective",
+      "ipa": "/njuˈtrɪʃəs/",
+      "meaningUz": "to'yimli, foydali (ovqat)",
+      "meaningEn": "containing substances that the body needs to stay healthy",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["health"],
+      "relatedIds": ["v-0024"],
+      "cards": [
+        {
+          "id": "v-0033-c1",
+          "mode": "cloze",
+          "prompt": "Keep ______ snacks nearby so good choices are easy.",
+          "answer": "nutritious",
+          "hint": "adjective, /njuˈtrɪʃəs/"
+        },
+        {
+          "id": "v-0033-c2",
+          "mode": "production",
+          "prompt": "to'yimli, foydali (sifat)",
+          "answer": "nutritious"
+        },
+        {
+          "id": "v-0033-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "nutritious"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A nutritious breakfast steadies your energy.",
+          "uz": "To'yimli nonushta energiyangizni barqaror qiladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0034",
+      "type": "vocab",
+      "word": "boost",
+      "pos": "verb",
+      "ipa": "/buːst/",
+      "meaningUz": "oshirmoq, kuchaytirmoq",
+      "meaningEn": "to increase or improve something",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0029"],
+      "cards": [
+        {
+          "id": "v-0034-c1",
+          "mode": "cloze",
+          "prompt": "A short walk can ______ your mood and focus.",
+          "answer": "boost",
+          "hint": "verb, /buːst/"
+        },
+        {
+          "id": "v-0034-c2",
+          "mode": "production",
+          "prompt": "oshirmoq, kuchaytirmoq (fe'l)",
+          "answer": "boost"
+        },
+        {
+          "id": "v-0034-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "boost"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Daylight in the morning boosts your energy.",
+          "uz": "Ertalabki kun nuri energiyangizni oshiradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0035",
+      "type": "vocab",
+      "word": "take up",
+      "pos": "phrasal_verb",
+      "ipa": "/teɪk ʌp/",
+      "meaningUz": "(mashg'ulot, sport) bilan shug'ullana boshlamoq",
+      "meaningEn": "to start a new hobby, activity, or habit",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0001"],
+      "cards": [
+        {
+          "id": "v-0035-c1",
+          "mode": "cloze",
+          "prompt": "She decided to ______ ______ swimming twice a week.",
+          "answer": "take up",
+          "hint": "phrasal verb, /teɪk ʌp/"
+        },
+        {
+          "id": "v-0035-c2",
+          "mode": "production",
+          "prompt": "(mashg'ulot) bilan shug'ullana boshlamoq (frazal fe'l)",
+          "answer": "take up"
+        },
+        {
+          "id": "v-0035-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "take up"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Take up an activity you actually enjoy.",
+          "uz": "O'zingizga yoqadigan mashg'ulot bilan shug'ullaning.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0036",
+      "type": "vocab",
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbl/",
+      "meaningUz": "barqaror, davom ettirib bo'ladigan",
+      "meaningEn": "able to be continued over a long period without harm",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["wellbeing"],
+      "relatedIds": ["v-0023"],
+      "cards": [
+        {
+          "id": "v-0036-c1",
+          "mode": "cloze",
+          "prompt": "A ______ habit is one you can keep without burning out.",
+          "answer": "sustainable",
+          "hint": "adjective, /səˈsteɪnəbl/"
+        },
+        {
+          "id": "v-0036-c2",
+          "mode": "production",
+          "prompt": "barqaror, davom ettirib bo'ladigan (sifat)",
+          "answer": "sustainable"
+        },
+        {
+          "id": "v-0036-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "sustainable"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A small sustainable habit beats a big short-lived one.",
+          "uz": "Kichik barqaror odat katta qisqa muddatlidan ustun.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0037",
+      "type": "vocab",
+      "word": "recover",
+      "pos": "verb",
+      "ipa": "/rɪˈkʌvə/",
+      "meaningUz": "tiklanmoq, sog'aymoq, kuchga kirmoq",
+      "meaningEn": "to return to normal health, strength, or condition",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["health"],
+      "relatedIds": ["v-0028"],
+      "cards": [
+        {
+          "id": "v-0037-c1",
+          "mode": "cloze",
+          "prompt": "Muscles grow while you rest and ______, not while you train.",
+          "answer": "recover",
+          "hint": "verb, /rɪˈkʌvə/"
+        },
+        {
+          "id": "v-0037-c2",
+          "mode": "production",
+          "prompt": "tiklanmoq, sog'aymoq (fe'l)",
+          "answer": "recover"
+        },
+        {
+          "id": "v-0037-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "recover"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Give your body time to recover between workouts.",
+          "uz": "Mashg'ulotlar orasida tanangizga tiklanish uchun vaqt bering.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0038",
+      "type": "vocab",
+      "word": "on a regular basis",
+      "pos": "phrase",
+      "ipa": "/ɒn ə ˈreɡjələ ˈbeɪsɪs/",
+      "meaningUz": "muntazam ravishda, doimiy",
+      "meaningEn": "regularly; happening often and repeatedly",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["health"],
+      "relatedIds": ["v-0002"],
+      "cards": [
+        {
+          "id": "v-0038-c1",
+          "mode": "cloze",
+          "prompt": "Exercising ______ ______ ______ ______ ______ matters more than one hard session.",
+          "answer": "on a regular basis",
+          "hint": "phrase, /ɒn ə ˈreɡjələ ˈbeɪsɪs/"
+        },
+        {
+          "id": "v-0038-c2",
+          "mode": "production",
+          "prompt": "muntazam ravishda, doimiy (ibora)",
+          "answer": "on a regular basis"
+        },
+        {
+          "id": "v-0038-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "on a regular basis"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Move your body on a regular basis, even just a little.",
+          "uz": "Tanangizni muntazam ravishda, ozgina bo'lsa ham harakatlantiring.",
+          "audioUrl": null
+        }
+      ]
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-0005",
+      "type": "grammar",
+      "topic": "Subject–Verb Agreement (tricky cases)",
+      "cefr": "B2",
+      "tags": ["agreement", "weak-spot"],
+      "explanationMd": "## Subject–Verb Agreement (tricky cases)\n\nThe verb must match the **real subject**, not the nearest noun.\n\n### one of the + plural noun → singular verb\nThe subject is *one*, not the plural noun after it.\n> **One of the students is** absent. (not *are*)\n\n### each / every / everyone → singular\n> **Each of us has** a task. / **Everyone is** ready.\n\n### neither / either → singular\n> **Neither answer is** correct.\n\n### Don't be fooled by words between subject and verb\n> The **box** of chocolates **is** on the table. (subject = box)\n\n### Common mistakes\n- ❌ *One of my friends are a doctor.*\n- ✅ *One of my friends is a doctor.*",
+      "exercises": [
+        {
+          "id": "g-0005-e1",
+          "type": "fill_blank",
+          "prompt": "One of the windows ______ (be) broken.",
+          "answer": "is",
+          "accepted": ["is"],
+          "explanationMd": "Subject is *one* → singular verb **is**."
+        },
+        {
+          "id": "g-0005-e2",
+          "type": "error_correction",
+          "prompt": "Each of the players have a number.",
+          "answer": "Each of the players has a number.",
+          "explanationMd": "*Each* takes a **singular** verb (has)."
+        },
+        {
+          "id": "g-0005-e3",
+          "type": "multiple_choice",
+          "prompt": "The box of old letters ______ in the attic.",
+          "options": ["are", "is", "were", "have"],
+          "answer": "is",
+          "explanationMd": "Subject = *box* (singular), not *letters*."
+        },
+        {
+          "id": "g-0005-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (one / my / of / cousins / lives / in / Canada)",
+          "answer": "One of my cousins lives in Canada."
+        }
+      ]
+    },
+    {
+      "id": "g-0006",
+      "type": "grammar",
+      "topic": "First & Second Conditional",
+      "cefr": "B1",
+      "tags": ["conditionals", "weak-spot"],
+      "explanationMd": "## First & Second Conditional\n\n### First conditional — real / likely future\n**Structure:** `If + present simple, will + verb`\n> **If I sleep** well, I **will feel** better tomorrow.\n\nUse for things that can really happen.\n\n### Second conditional — unreal / imaginary present\n**Structure:** `If + past simple, would + verb`\n> **If I had** more time, I **would exercise** daily.\n\nUse for imaginary or unlikely situations. With *be*, use **were** for all subjects:\n> If I **were** you, I'd rest.\n\n### Common mistakes\n- ❌ *If I will see him, I will tell him.*\n- ✅ *If I see him, I will tell him.* (no *will* in the if-clause)",
+      "exercises": [
+        {
+          "id": "g-0006-e1",
+          "type": "fill_blank",
+          "prompt": "If it rains tomorrow, we ______ (stay) at home.",
+          "answer": "will stay",
+          "accepted": ["will stay", "'ll stay"],
+          "explanationMd": "First conditional: *if + present, **will + verb***."
+        },
+        {
+          "id": "g-0006-e2",
+          "type": "error_correction",
+          "prompt": "If I would have time, I would travel more.",
+          "answer": "If I had time, I would travel more.",
+          "explanationMd": "Second conditional uses **past simple** in the if-clause, never *would*."
+        },
+        {
+          "id": "g-0006-e3",
+          "type": "multiple_choice",
+          "prompt": "If I ______ you, I would start today.",
+          "options": ["am", "was", "were", "be"],
+          "answer": "were",
+          "explanationMd": "Second conditional with *be* uses **were** for all subjects."
+        },
+        {
+          "id": "g-0006-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (if / you / early / sleep / you / better / will / feel)",
+          "answer": "If you sleep early, you will feel better."
+        }
+      ]
+    },
+    {
+      "id": "g-0007",
+      "type": "grammar",
+      "topic": "Reported Speech",
+      "cefr": "B2",
+      "tags": ["reported-speech"],
+      "explanationMd": "## Reported Speech\n\nWhen you report what someone said, the tense usually **shifts back** one step.\n\n### Tense backshift\n- present simple → past simple: *\"I **am** tired\"* → He said he **was** tired.\n- present continuous → past continuous: *\"I **am working**\"* → She said she **was working**.\n- past simple → past perfect: *\"I **saw** it\"* → He said he **had seen** it.\n- will → would: *\"I **will** call\"* → She said she **would** call.\n\n### Pronouns & time words also change\n*\"I'll see you **tomorrow**\"* → He said he would see me **the next day**.\n\n### Common mistakes\n- ❌ *She said she is tired.*\n- ✅ *She said she was tired.*",
+      "exercises": [
+        {
+          "id": "g-0007-e1",
+          "type": "fill_blank",
+          "prompt": "\"I am busy.\" → He said he ______ busy.",
+          "answer": "was",
+          "accepted": ["was"],
+          "explanationMd": "Present *am* backshifts to past **was**."
+        },
+        {
+          "id": "g-0007-e2",
+          "type": "error_correction",
+          "prompt": "She said she will help me tomorrow.",
+          "answer": "She said she would help me the next day.",
+          "explanationMd": "*will* → **would**, and *tomorrow* → *the next day*."
+        },
+        {
+          "id": "g-0007-e3",
+          "type": "multiple_choice",
+          "prompt": "\"I saw the film.\" → He said he ______ the film.",
+          "options": ["saw", "has seen", "had seen", "sees"],
+          "answer": "had seen",
+          "explanationMd": "Past simple backshifts to **past perfect**."
+        },
+        {
+          "id": "g-0007-e4",
+          "type": "sentence_build",
+          "prompt": "Report: \"I am learning English.\" (She said...) — build the sentence",
+          "answer": "She said she was learning English."
+        }
+      ]
+    }
+  ],
+
+  "speaking": [
+    {
+      "id": "s-0006",
+      "type": "speaking",
+      "promptEn": "Describe one healthy habit you could take up and what you would cut back on.",
+      "promptUz": "Boshlay oladigan bitta sog'lom odatingizni va nimani kamaytirishingizni tasvirlang.",
+      "targetWords": ["v-0035", "v-0026"],
+      "rubric": "Encourage phrasal verbs take up / cut back and present tense."
+    },
+    {
+      "id": "s-0007",
+      "type": "speaking",
+      "promptEn": "If you had one extra hour every day for your health, what would you do? Use the second conditional.",
+      "promptUz": "Agar har kuni sog'lig'ingiz uchun bir soat ortiqcha vaqtingiz bo'lsa, nima qilardingiz? Ikkinchi shartni ishlating.",
+      "targetWords": ["v-0034", "v-0029"],
+      "rubric": "Encourage second conditional (If I had..., I would...)."
+    },
+    {
+      "id": "s-0008",
+      "type": "speaking",
+      "promptEn": "Tell me about advice a friend or doctor once gave you about your health. Report what they said.",
+      "promptUz": "Do'st yoki shifokor sog'lig'ingiz haqida bergan maslahatini aytib bering. Ular nima deganini yetkazing.",
+      "targetWords": ["v-0030", "v-0037"],
+      "rubric": "Encourage reported speech with tense backshift (said/told)."
+    }
+  ]
+}

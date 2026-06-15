@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "blockId": "block-002",
+  "order": 2,
+  "days": [4, 5, 6],
+  "theme": "Focus, Goals & Discipline",
+  "cefr": "B1",
+  "tags": ["productivity", "discipline"],
+
+  "vocabulary": [
+    {
+      "id": "v-0009",
+      "type": "vocab",
+      "word": "prioritize",
+      "pos": "verb",
+      "ipa": "/praɪˈɒrɪtaɪz/",
+      "meaningUz": "ustuvorlik bermoq, muhimini birinchi qo'ymoq",
+      "meaningEn": "to decide which tasks are most important and do them first",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0012"],
+      "cards": [
+        {
+          "id": "v-0009-c1",
+          "mode": "cloze",
+          "prompt": "When everything feels urgent, learn to ______ the few tasks that matter.",
+          "answer": "prioritize",
+          "hint": "verb, /praɪˈɒrɪtaɪz/"
+        },
+        {
+          "id": "v-0009-c2",
+          "mode": "production",
+          "prompt": "ustuvorlik bermoq, muhimini birinchi qo'ymoq (fe'l)",
+          "answer": "prioritize"
+        },
+        {
+          "id": "v-0009-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "prioritize"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Prioritize the one task that moves you forward.",
+          "uz": "Sizni oldinga olib boradigan bitta vazifaga ustuvorlik bering.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0010",
+      "type": "vocab",
+      "word": "procrastinate",
+      "pos": "verb",
+      "ipa": "/prəˈkræstɪneɪt/",
+      "meaningUz": "ishni keyinga surmoq, paysalga solmoq",
+      "meaningEn": "to delay doing something you should do, usually because it is unpleasant",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0011"],
+      "cards": [
+        {
+          "id": "v-0010-c1",
+          "mode": "cloze",
+          "prompt": "We often ______ on hard tasks and do easy ones instead.",
+          "answer": "procrastinate",
+          "hint": "verb, /prəˈkræstɪneɪt/"
+        },
+        {
+          "id": "v-0010-c2",
+          "mode": "production",
+          "prompt": "ishni keyinga surmoq, paysalga solmoq (fe'l)",
+          "answer": "procrastinate"
+        },
+        {
+          "id": "v-0010-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "procrastinate"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Don't procrastinate; just start with two minutes.",
+          "uz": "Paysalga solmang; atigi ikki daqiqa bilan boshlang.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0011",
+      "type": "vocab",
+      "word": "distraction",
+      "pos": "noun",
+      "ipa": "/dɪˈstrækʃən/",
+      "meaningUz": "chalg'ituvchi narsa, diqqatni bo'luvchi",
+      "meaningEn": "something that takes your attention away from what you are doing",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0010"],
+      "cards": [
+        {
+          "id": "v-0011-c1",
+          "mode": "cloze",
+          "prompt": "Put your phone away to remove the biggest ______.",
+          "answer": "distraction",
+          "hint": "noun, /dɪˈstrækʃən/"
+        },
+        {
+          "id": "v-0011-c2",
+          "mode": "production",
+          "prompt": "chalg'ituvchi narsa, diqqatni bo'luvchi (ot)",
+          "answer": "distraction"
+        },
+        {
+          "id": "v-0011-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "distraction"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A quiet room cuts down on distraction.",
+          "uz": "Tinch xona chalg'ituvchi narsalarni kamaytiradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0012",
+      "type": "vocab",
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈdedlaɪn/",
+      "meaningUz": "muddat, oxirgi muddat",
+      "meaningEn": "a time or date by which something must be finished",
+      "audioUrl": null,
+      "difficulty": 2,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0009"],
+      "cards": [
+        {
+          "id": "v-0012-c1",
+          "mode": "cloze",
+          "prompt": "Setting a clear ______ makes a vague goal real.",
+          "answer": "deadline",
+          "hint": "noun, /ˈdedlaɪn/"
+        },
+        {
+          "id": "v-0012-c2",
+          "mode": "production",
+          "prompt": "muddat, oxirgi muddat (ot)",
+          "answer": "deadline"
+        },
+        {
+          "id": "v-0012-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "deadline"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A deadline turns a wish into a plan.",
+          "uz": "Muddat orzuni rejaga aylantiradi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0013",
+      "type": "vocab",
+      "word": "overwhelmed",
+      "pos": "adjective",
+      "ipa": "/ˌəʊvəˈwelmd/",
+      "meaningUz": "bosib ketilgan, ko'pdan charchagan, dovdiragan",
+      "meaningEn": "feeling unable to cope because there is too much to do or feel",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0014", "v-0022"],
+      "cards": [
+        {
+          "id": "v-0013-c1",
+          "mode": "cloze",
+          "prompt": "When you feel ______, break the work into smaller steps.",
+          "answer": "overwhelmed",
+          "hint": "adjective, /ˌəʊvəˈwelmd/"
+        },
+        {
+          "id": "v-0013-c2",
+          "mode": "production",
+          "prompt": "bosib ketilgan, dovdiragan (sifat)",
+          "answer": "overwhelmed"
+        },
+        {
+          "id": "v-0013-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "overwhelmed"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A long to-do list can leave you overwhelmed.",
+          "uz": "Uzun ishlar ro'yxati sizni dovdiratib qo'yishi mumkin.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0014",
+      "type": "vocab",
+      "word": "break down",
+      "pos": "phrasal_verb",
+      "ipa": "/breɪk daʊn/",
+      "meaningUz": "qismlarga bo'lmoq, maydalamoq",
+      "meaningEn": "to divide a big task into smaller, easier parts",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0013"],
+      "cards": [
+        {
+          "id": "v-0014-c1",
+          "mode": "cloze",
+          "prompt": "______ the project ______ into tasks you can finish today.",
+          "answer": "break down",
+          "hint": "phrasal verb, /breɪk daʊn/"
+        },
+        {
+          "id": "v-0014-c2",
+          "mode": "production",
+          "prompt": "qismlarga bo'lmoq, maydalamoq (frazal fe'l)",
+          "answer": "break down"
+        },
+        {
+          "id": "v-0014-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "break down"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Break down the goal until the first step feels easy.",
+          "uz": "Maqsadni birinchi qadam oson tuyulguncha qismlarga bo'ling.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0015",
+      "type": "vocab",
+      "word": "momentum",
+      "pos": "noun",
+      "ipa": "/məˈmentəm/",
+      "meaningUz": "harakat kuchi, sur'at, oldinga intilish",
+      "meaningEn": "the force that keeps progress going once it has started",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0023"],
+      "cards": [
+        {
+          "id": "v-0015-c1",
+          "mode": "cloze",
+          "prompt": "Finishing one small task builds ______ for the next.",
+          "answer": "momentum",
+          "hint": "noun, /məˈmentəm/"
+        },
+        {
+          "id": "v-0015-c2",
+          "mode": "production",
+          "prompt": "harakat kuchi, sur'at (ot)",
+          "answer": "momentum"
+        },
+        {
+          "id": "v-0015-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "momentum"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Once you have momentum, the work pulls you along.",
+          "uz": "Sur'at paydo bo'lgach, ish sizni o'zi yetaklaydi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0016",
+      "type": "vocab",
+      "word": "accomplish",
+      "pos": "verb",
+      "ipa": "/əˈkʌmplɪʃ/",
+      "meaningUz": "uddalamoq, erishmoq, bajarmoq",
+      "meaningEn": "to succeed in doing or completing something",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0013"],
+      "cards": [
+        {
+          "id": "v-0016-c1",
+          "mode": "cloze",
+          "prompt": "You can ______ a lot by doing a little every day.",
+          "answer": "accomplish",
+          "hint": "verb, /əˈkʌmplɪʃ/"
+        },
+        {
+          "id": "v-0016-c2",
+          "mode": "production",
+          "prompt": "uddalamoq, erishmoq, bajarmoq (fe'l)",
+          "answer": "accomplish"
+        },
+        {
+          "id": "v-0016-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "accomplish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Write down what you accomplish, not just what you plan.",
+          "uz": "Faqat rejani emas, balki nimaga erishganingizni yozib boring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0017",
+      "type": "vocab",
+      "word": "cut out",
+      "pos": "phrasal_verb",
+      "ipa": "/kʌt aʊt/",
+      "meaningUz": "tark etmoq, butunlay to'xtatmoq, olib tashlamoq",
+      "meaningEn": "to stop doing or using something completely",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0011"],
+      "cards": [
+        {
+          "id": "v-0017-c1",
+          "mode": "cloze",
+          "prompt": "To focus better, ______ ______ social media during work hours.",
+          "answer": "cut out",
+          "hint": "phrasal verb, /kʌt aʊt/"
+        },
+        {
+          "id": "v-0017-c2",
+          "mode": "production",
+          "prompt": "butunlay to'xtatmoq, olib tashlamoq (frazal fe'l)",
+          "answer": "cut out"
+        },
+        {
+          "id": "v-0017-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "cut out"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Cut out one bad habit before adding a good one.",
+          "uz": "Yaxshi odat qo'shishdan oldin bitta yomon odatni tark eting.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0018",
+      "type": "vocab",
+      "word": "willpower",
+      "pos": "noun",
+      "ipa": "/ˈwɪlpaʊə/",
+      "meaningUz": "iroda kuchi, sabr-matonat",
+      "meaningEn": "the ability to control your actions and resist temptation",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["discipline"],
+      "relatedIds": ["v-0019"],
+      "cards": [
+        {
+          "id": "v-0018-c1",
+          "mode": "cloze",
+          "prompt": "Good systems matter more than raw ______.",
+          "answer": "willpower",
+          "hint": "noun, /ˈwɪlpaʊə/"
+        },
+        {
+          "id": "v-0018-c2",
+          "mode": "production",
+          "prompt": "iroda kuchi, sabr-matonat (ot)",
+          "answer": "willpower"
+        },
+        {
+          "id": "v-0018-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "willpower"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Willpower runs out, so design your environment instead.",
+          "uz": "Iroda tugaydi, shuning uchun muhitingizni shakllantiring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0019",
+      "type": "vocab",
+      "word": "reluctant",
+      "pos": "adjective",
+      "ipa": "/rɪˈlʌktənt/",
+      "meaningUz": "istamay, hafsalasiz, ikkilanib",
+      "meaningEn": "not willing to do something and slow to act",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["discipline"],
+      "relatedIds": ["v-0010"],
+      "cards": [
+        {
+          "id": "v-0019-c1",
+          "mode": "cloze",
+          "prompt": "I was ______ to start, but I felt great once I began.",
+          "answer": "reluctant",
+          "hint": "adjective, /rɪˈlʌktənt/"
+        },
+        {
+          "id": "v-0019-c2",
+          "mode": "production",
+          "prompt": "istamay, hafsalasiz, ikkilanib (sifat)",
+          "answer": "reluctant"
+        },
+        {
+          "id": "v-0019-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "reluctant"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She was reluctant to ask for help at first.",
+          "uz": "U avval yordam so'rashga ikkilanardi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0020",
+      "type": "vocab",
+      "word": "streamline",
+      "pos": "verb",
+      "ipa": "/ˈstriːmlaɪn/",
+      "meaningUz": "soddalashtirmoq, samaraliroq qilmoq",
+      "meaningEn": "to make a process simpler and more efficient",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["productivity"],
+      "relatedIds": ["v-0009"],
+      "cards": [
+        {
+          "id": "v-0020-c1",
+          "mode": "cloze",
+          "prompt": "Try to ______ your morning so good choices are automatic.",
+          "answer": "streamline",
+          "hint": "verb, /ˈstriːmlaɪn/"
+        },
+        {
+          "id": "v-0020-c2",
+          "mode": "production",
+          "prompt": "soddalashtirmoq, samaraliroq qilmoq (fe'l)",
+          "answer": "streamline"
+        },
+        {
+          "id": "v-0020-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "streamline"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Streamline the steps until starting takes no thought.",
+          "uz": "Boshlash o'ylamasdan bo'lguncha qadamlarni soddalashtiring.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0021",
+      "type": "vocab",
+      "word": "follow through",
+      "pos": "phrasal_verb",
+      "ipa": "/ˈfɒləʊ θruː/",
+      "meaningUz": "oxiriga yetkazmoq, va'daga amal qilmoq",
+      "meaningEn": "to finish what you started or do what you promised",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["discipline"],
+      "relatedIds": ["v-0004"],
+      "cards": [
+        {
+          "id": "v-0021-c1",
+          "mode": "cloze",
+          "prompt": "Anyone can plan; the hard part is to ______ ______.",
+          "answer": "follow through",
+          "hint": "phrasal verb, /ˈfɒləʊ θruː/"
+        },
+        {
+          "id": "v-0021-c2",
+          "mode": "production",
+          "prompt": "oxiriga yetkazmoq, va'daga amal qilmoq (frazal fe'l)",
+          "answer": "follow through"
+        },
+        {
+          "id": "v-0021-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "follow through"
+        }
+      ],
+      "examples": [
+        {
+          "en": "If you say you'll do it, follow through.",
+          "uz": "Qilaman desangiz, oxiriga yetkazing.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0022",
+      "type": "vocab",
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːnaʊt/",
+      "meaningUz": "charchash, holdan toyish, kuyib bitish",
+      "meaningEn": "extreme tiredness caused by working too hard for too long",
+      "audioUrl": null,
+      "difficulty": 4,
+      "tags": ["discipline"],
+      "relatedIds": ["v-0013"],
+      "cards": [
+        {
+          "id": "v-0022-c1",
+          "mode": "cloze",
+          "prompt": "Rest is part of the plan; it prevents ______.",
+          "answer": "burnout",
+          "hint": "noun, /ˈbɜːnaʊt/"
+        },
+        {
+          "id": "v-0022-c2",
+          "mode": "production",
+          "prompt": "charchash, holdan toyish (ot)",
+          "answer": "burnout"
+        },
+        {
+          "id": "v-0022-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "burnout"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Slow and steady avoids burnout.",
+          "uz": "Sekin va barqaror sur'at holdan toyishning oldini oladi.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "v-0023",
+      "type": "vocab",
+      "word": "in the long run",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "meaningUz": "uzoq muddatda, oxir-oqibat",
+      "meaningEn": "over a long period of time in the future",
+      "audioUrl": null,
+      "difficulty": 3,
+      "tags": ["discipline"],
+      "relatedIds": ["v-0015"],
+      "cards": [
+        {
+          "id": "v-0023-c1",
+          "mode": "cloze",
+          "prompt": "Small daily habits win ______ ______ ______ ______.",
+          "answer": "in the long run",
+          "hint": "phrase, /ɪn ðə lɒŋ rʌn/"
+        },
+        {
+          "id": "v-0023-c2",
+          "mode": "production",
+          "prompt": "uzoq muddatda, oxir-oqibat (ibora)",
+          "answer": "in the long run"
+        },
+        {
+          "id": "v-0023-c3",
+          "mode": "listening",
+          "prompt": "{{audio}}",
+          "answer": "in the long run"
+        }
+      ],
+      "examples": [
+        {
+          "en": "In the long run, consistency beats motivation.",
+          "uz": "Uzoq muddatda izchillik motivatsiyadan ustun keladi.",
+          "audioUrl": null
+        }
+      ]
+    }
+  ],
+
+  "grammar": [
+    {
+      "id": "g-0002",
+      "type": "grammar",
+      "topic": "Passive Voice",
+      "cefr": "B1",
+      "tags": ["passive", "weak-spot"],
+      "explanationMd": "## Passive Voice\n\nUse the passive when the **action matters more than who did it**, or the doer is unknown/obvious.\n\n**Structure:** `subject + be (correct tense) + V3 (past participle)` (+ `by` + agent, optional)\n\n> Active: *They **clean** the office every day.*\n> Passive: *The office **is cleaned** every day.*\n\n### Tense map\n- Present simple: *is/are + V3* — *The report **is written**.*\n- Past simple: *was/were + V3* — *The report **was written**.*\n- Present perfect: *has/have been + V3* — *The report **has been written**.*\n\n### Common mistakes\n- ❌ *The office is clean every day.* (missing past participle)\n- ✅ *The office is cleaned every day.*",
+      "exercises": [
+        {
+          "id": "g-0002-e1",
+          "type": "fill_blank",
+          "prompt": "The report ______ (write) by the team last week.",
+          "answer": "was written",
+          "accepted": ["was written"],
+          "explanationMd": "Past simple passive: **was/were + V3**."
+        },
+        {
+          "id": "g-0002-e2",
+          "type": "error_correction",
+          "prompt": "English is speak in many countries.",
+          "answer": "English is spoken in many countries.",
+          "explanationMd": "Passive needs the **past participle** (spoken), not the base verb."
+        },
+        {
+          "id": "g-0002-e3",
+          "type": "multiple_choice",
+          "prompt": "The bridge ______ in 1995.",
+          "options": ["built", "was built", "is build", "has build"],
+          "answer": "was built",
+          "explanationMd": "Past simple passive: *was + built*."
+        },
+        {
+          "id": "g-0002-e4",
+          "type": "sentence_build",
+          "prompt": "Build passive: (the cake / by / was / eaten / the children)",
+          "answer": "The cake was eaten by the children."
+        }
+      ]
+    },
+    {
+      "id": "g-0003",
+      "type": "grammar",
+      "topic": "Gerund vs Infinitive",
+      "cefr": "B2",
+      "tags": ["gerund-infinitive", "weak-spot"],
+      "explanationMd": "## Gerund vs Infinitive\n\nSome verbs are followed by **-ing** (gerund), others by **to + verb** (infinitive).\n\n### Verbs + gerund (-ing)\n*enjoy, avoid, finish, keep, suggest, mind, practise*\n> I **enjoy reading**. / She **avoided answering**.\n\n### Verbs + infinitive (to)\n*want, decide, hope, plan, promise, need, agree*\n> I **want to read**. / He **decided to leave**.\n\n### After prepositions → always gerund\n> She is good **at speaking**. / Thanks **for helping**.\n\n### Common mistakes\n- ❌ *I enjoy to read.*\n- ✅ *I enjoy reading.*",
+      "exercises": [
+        {
+          "id": "g-0003-e1",
+          "type": "fill_blank",
+          "prompt": "I enjoy ______ (read) before bed.",
+          "answer": "reading",
+          "accepted": ["reading"],
+          "explanationMd": "*enjoy* is followed by the **gerund (-ing)**."
+        },
+        {
+          "id": "g-0003-e2",
+          "type": "error_correction",
+          "prompt": "She decided studying abroad next year.",
+          "answer": "She decided to study abroad next year.",
+          "explanationMd": "*decide* is followed by the **infinitive (to study)**."
+        },
+        {
+          "id": "g-0003-e3",
+          "type": "multiple_choice",
+          "prompt": "He's good at ______ problems quickly.",
+          "options": ["solve", "to solve", "solving", "solved"],
+          "answer": "solving",
+          "explanationMd": "After a preposition (*at*) use the **gerund**."
+        },
+        {
+          "id": "g-0003-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (we / to / plan / start / early / tomorrow)",
+          "answer": "We plan to start early tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "g-0004",
+      "type": "grammar",
+      "topic": "Despite / In spite of vs Although",
+      "cefr": "B2",
+      "tags": ["prepositions", "weak-spot"],
+      "explanationMd": "## Despite / In spite of vs Although\n\nAll show **contrast**, but the grammar after them differs.\n\n### despite / in spite of\nFollowed by a **noun**, **gerund (-ing)**, or *the fact that*. Never followed directly by a subject + verb clause.\n> **Despite the rain**, we went out.\n> **In spite of being tired**, she kept going.\n> **Despite the fact that** it rained, we went out.\n\n### although / even though\nFollowed by a **full clause** (subject + verb).\n> **Although it rained**, we went out.\n\n### Common mistakes\n- ❌ *Despite it was raining, we went out.*\n- ✅ *Despite the rain, we went out.* / *Although it was raining, we went out.*",
+      "exercises": [
+        {
+          "id": "g-0004-e1",
+          "type": "fill_blank",
+          "prompt": "______ being tired, he finished the task. (Despite / Although)",
+          "answer": "Despite",
+          "accepted": ["Despite"],
+          "explanationMd": "Before a **gerund (being)** use *despite/in spite of*, not *although*."
+        },
+        {
+          "id": "g-0004-e2",
+          "type": "error_correction",
+          "prompt": "Despite it was raining, we kept training.",
+          "answer": "Although it was raining, we kept training.",
+          "explanationMd": "Before a **clause** (it was raining) use *although*, or rewrite as *Despite the rain*."
+        },
+        {
+          "id": "g-0004-e3",
+          "type": "multiple_choice",
+          "prompt": "______ the difficulty, she never gave up.",
+          "options": ["Although", "Even though", "In spite of", "Though"],
+          "answer": "In spite of",
+          "explanationMd": "Before a **noun** (the difficulty) use *in spite of / despite*."
+        },
+        {
+          "id": "g-0004-e4",
+          "type": "sentence_build",
+          "prompt": "Build: (although / hard / it / was / we / on / carried)",
+          "answer": "Although it was hard, we carried on."
+        }
+      ]
+    }
+  ],
+
+  "speaking": [
+    {
+      "id": "s-0003",
+      "type": "speaking",
+      "promptEn": "What usually distracts you, and how could you cut it out to focus better?",
+      "promptUz": "Sizni odatda nima chalg'itadi va yaxshiroq diqqat qilish uchun uni qanday tark eta olasiz?",
+      "targetWords": ["v-0011", "v-0017"],
+      "rubric": "Encourage present tense + productivity vocabulary (distraction, cut out, prioritize)."
+    },
+    {
+      "id": "s-0004",
+      "type": "speaking",
+      "promptEn": "Describe a big goal and how you would break it down into smaller steps.",
+      "promptUz": "Katta maqsadingizni va uni qanday kichik qadamlarga bo'lishingizni tasvirlang.",
+      "targetWords": ["v-0014", "v-0016"],
+      "rubric": "Encourage gerund/infinitive structures and the verb break down."
+    },
+    {
+      "id": "s-0005",
+      "type": "speaking",
+      "promptEn": "Talk about a time you kept going despite a setback. Use 'despite' or 'although'.",
+      "promptUz": "To'siqqa qaramay davom etgan vaqtingiz haqida gapiring. 'despite' yoki 'although' ishlating.",
+      "targetWords": ["v-0021", "v-0023"],
+      "rubric": "Encourage despite/in spite of vs although contrast structures."
+    }
+  ]
+}
